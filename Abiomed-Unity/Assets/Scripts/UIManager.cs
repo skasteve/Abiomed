@@ -11,7 +11,7 @@ public class UIManager : MonoBehaviour {
     private FirstPersonController _firstPersonController;
 
     [SerializeField]
-    private GameObject _objectSelectionPanel;
+    private UIPanel _objectSelectionPanel;
 
 	void Awake () {
 
@@ -24,15 +24,16 @@ public class UIManager : MonoBehaviour {
         DontDestroyOnLoad(gameObject);
     }
 
-    public void ShowObjectSelection()
+    public void ShowObjectSelection(InteractableObjectData data)
     {
-        _objectSelectionPanel.SetActive(true);
+        _objectSelectionPanel.SetObjectData(data);
+        _objectSelectionPanel.ShowPanel();
         SetPlayerMovement(false);
     }
 
     public void HideOjectSelection()
     {
-        _objectSelectionPanel.SetActive(false);
+        _objectSelectionPanel.HidePanel();
         SetPlayerMovement(true);
     }
 

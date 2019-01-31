@@ -4,6 +4,7 @@ using UnityEngine;
 [RequireComponent(typeof(Highlighter))]
 public class InteractableObject : MonoBehaviour {
 
+    public InteractableObjectData objectData;
     public Color highlightColor = Color.cyan;
     private Highlighter _highligher;
 
@@ -20,6 +21,6 @@ public class InteractableObject : MonoBehaviour {
     public void OnSelect()
     {
         //Debug.Log( this.gameObject.name + " selected.");
-        UIManager.instance.ShowObjectSelection();
+        UIManager.instance.ShowObjectSelection(objectData);
     }
 }

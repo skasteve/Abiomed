@@ -1,0 +1,162 @@
+﻿newmtl DEFAULT_MTL
+Kd 0.695 0.743 0.790
+
+newmtl MTL0 
+Kd 0.647 0.518 0.000
+
+newmtl MTL1 
+Kd 0.000 0.557 1.000
+
+newmtl MTL2 
+Kd 0.298 0.298 0.298
+
+newmtl MTL3 
+Kd 0.537 0.349 0.337
+
+newmtl MTL4 
+Kd 0.000 0.000 0.000
+
+newmtl MTL5 
+Kd 0.510 0.000 0.922
+
+newmtl MTL6 
+Kd 0.792 0.820 0.933
+
+newmtl MTL7 
+Kd 1.000 1.000 1.000
+
+newmtl MTL8 
+Kd 1.000 0.490 0.000
+
+newmtl MTL9 
+Kd 0.600 1.000 0.000
+
+newmtl MTL10 
+Kd 0.000 1.000 0.000
+
+newmtl MTL11 
+Kd 0.000 0.000 1.000
+
+newmtl MTL12 
+Kd 0.718 1.000 0.745
+
+newmtl MTL13 
+Kd 0.502 0.502 0.753
+
+newmtl MTL14 
+Kd 0.647 0.620 0.588
+
+newmtl MTL15 
+Kd 0.000 0.871 1.000
+
+newmtl MTL16 
+Kd 0.051 0.122 0.380
+
+newmtl MTL17 
+Kd 0.894 0.894 0.894
+
+newmtl MTL18 
+Kd 0.000 0.404 1.000
+
+newmtl MTL19 
+Kd 0.698 0.698 0.698
+
+newmtl MTL20 
+Kd 0.502 0.502 0.502
+
+newmtl MTL21 
+Kd 1.000 1.000 0.400
+
+newmtl MTL22 
+Kd 0.980 0.627 0.000
+
+newmtl MTL23 
+Kd 0.000 0.745 1.000
+
+newmtl MTL24 
+Kd 1.000 1.000 0.000
+
+newmtl MTL25 
+Kd 0.220 0.220 0.227
+
+newmtl MTL26 
+Kd 1.000 0.000 0.616
+
+newmtl MTL27 
+Kd 1.000 0.000 0.400
+
+newmtl MTL28 
+Kd 0.824 0.824 0.824
+
+newmtl MTL29 
+Kd 0.878 0.949 1.000
+
+newmtl MTL30 
+Kd 0.000 0.600 0.000
+
+newmtl MTL31 
+Kd 0.200 0.200 1.000
+
+newmtl MTL32 
+Kd 0.502 0.000 0.502
+
+newmtl MTL33 
+Kd 0.310 0.518 0.137
+
+newmtl MTL34 
+Kd 0.200 0.000 0.000
+
+newmtl MTL35 
+Kd 1.000 0.000 0.000
+
+newmtl MTL36 
+Kd 0.200 0.200 0.000
+
+newmtl MTL37 
+Kd 0.200 1.000 0.200
+
+newmtl MTL38 
+Kd 1.000 0.200 0.200
+
+newmtl MTL39 
+Kd 0.000 1.000 1.000
+
+newmtl MTL40 
+Kd 0.000 0.800 0.000
+
+newmtl MTL41 
+Kd 0.753 0.753 0.000
+
+newmtl MTL42 
+Kd 0.204 0.459 1.000
+
+newmtl MTL43 
+Kd 0.133 0.169 0.322
+
+newmtl MTL44 
+Kd 0.502 0.502 1.000
+
+newmtl MTL45 
+Kd 1.000 0.502 0.502
+
+newmtl MTL46 
+Kd 1.000 0.502 1.000
+
+newmtl MTL47 
+Kd 1.000 0.000 1.000
+
+newmtl MTL48 
+Kd 0.502 1.000 0.502
+
+newmtl MTL49 
+Kd 1.000 0.882 0.122
+
+newmtl MTL50 
+Kd 0.871 0.631 0.173
+
+newmtl MTL51 
+Kd 0.988 0.737 0.518
+
+newmtl MTL52 
+Kd 0.592 0.980 1.000
+
